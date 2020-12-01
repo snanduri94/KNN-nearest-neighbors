@@ -11,7 +11,7 @@ My aim is to continually increase my knowledge but asking questions, searching f
 2. Created dummy variables to generate a sparse matrix for all the categorical variables
 3. Normalized all the numerical variables to get a standard unit of measurement
 
-## [Project 2: KNN Doucment Classifier](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Document-Term%20KNN%20Classification%20Analysis_FINAL.ipynb)
+## [Project 2: KNN Document Classifier](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Document-Term%20KNN%20Classification%20Analysis_FINAL.ipynb)
 1. Developed a KNN Distance Measuring function to calculate the distance between terms in a document against searched queries
 2. Calculated distance metrics for Euclidean Distance and Cosine Similarity
 3. Analyzed raw data and computed a document by term matrix that is weighted relative to the number of times the term appears
@@ -27,5 +27,14 @@ My aim is to continually increase my knowledge but asking questions, searching f
 1. Utilized KNN Classification and Decision Tree calculator to determine whether an individual is likely to open up dat  
 2. Imported functions from SKLEARN library to preprocess and execute the models
 3. The Decision Tree and KNN had similar performance measures when reviewing the classification reports
+
+## [Project 5: Cook County Sentencing Data Analysis](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Sentencing%20Exploratory%20Analysis%20and%20Modeling.ipynb)
+1. Extracted the Cook County Prison Sentencing Dataset for data preprocessing and exploratory analysis (refer to [link](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Sentencing%20Data%20Cleaning.ipynb) for data cleaning process)
+2. Conducted multiple sets of analysis:
+  a. Linear Regression (Ordinary Least Squares, Lasso, and Ridge) to evaluate if the length of the prison sentencing could be accurately predicted.
+  b. Cluster Analysis to identify any interrelationships between the data points
+  c. Decision Tree and Random Forest Classifier function to accurately classify the RACE of the individual commiting the crime
+3. Idenified the Decision Tree analysis to be the best classifier function to classify the race of the individual commiting the crime (Random Forest produced the same results)
+
 
 
