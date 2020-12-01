@@ -26,5 +26,6 @@ My aim is to continually increase my knowledge but asking questions, searching f
 ## [Project 4: Bank PEP Determination Through Classification](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Bank%20Income%20Classification.ipynb)
 1. Utilized KNN Classification and Decision Tree calculator to determine whether an individual is likely to open up dat  
 2. Imported functions from SKLEARN library to preprocess and execute the models
+3. The Decision Tree and KNN had similar performance measures when reviewing the classification reports
 
 
