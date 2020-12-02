@@ -36,6 +36,11 @@ My aim is to continually increase my knowledge by asking questions, searching an
   c. Decision Tree and Random Forest Classifier function to accurately classify the RACE of the individual commiting the crime
 3. Idenified the Decision Tree analysis to be the best classifier function to classify the race of the individual commiting the crime (Random Forest produced the same results)
 
+## [Project 6: NCAA Win Percentage Analysis](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/DSC423_M10_FinalReport_SLAADS.pdf)
+(Refer to the executive summary [here](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/M09_ExecutiveSummary.pdf))
+1. Aggregated Men's basketball data from the NCAA website for the years between 2015 - 2019
+2. Divided the statistics collected into multiple categories to assess the impact of the statistics both individually and in union
+3. Utilized feature selection and model evaluation methodology to build the best model to explain the variability in the data
 
 
 
