@@ -29,6 +29,7 @@ My aim is to continually increase my knowledge by asking questions, searching an
 3. The Decision Tree and KNN had similar performance measures when reviewing the classification reports
 
 ## [Project 5: Cook County Sentencing Data Analysis](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Sentencing%20Exploratory%20Analysis%20and%20Modeling.ipynb)
+(Refer to the executive summary [here](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Cook%20County%20Sentencing%20Data%20Analysis.pdf))
 1. Extracted the Cook County Prison Sentencing Dataset for data preprocessing and exploratory analysis (refer to [link](https://github.com/snanduri94/Srikanth_DS_Portfolio/blob/main/Sentencing%20Data%20Cleaning.ipynb) for data cleaning process)
 2. Conducted multiple sets of analysis:
   a. Linear Regression (Ordinary Least Squares, Lasso, and Ridge) to evaluate if the length of the prison sentencing could be accurately predicted.
